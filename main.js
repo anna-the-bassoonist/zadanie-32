@@ -10,4 +10,4 @@ else {
 }
     }
 
-console.log(porownanie(num1,num2));
+porownanie(num1,num2);
